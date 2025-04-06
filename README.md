@@ -11,4 +11,4 @@
 * .id unik untuk korban
 * .mudah di sesuaikan dengan file korban
 * .buat register KEY untuk melancarkan serangan pada target tanpa disadari oleh target
-* .menciptakan ilusi pada perangkat pada perangkat target
+* .menciptakan ilusi pada perangkat target
